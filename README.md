@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @YMDG-BM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 欢迎光临我的GitHub主页。
+- I’m from Gongyi. Studying in PDSU.
+- 博客主营内容有：CTF题解、一些吐槽、各种发癫、写的烂文、技术分享（或许有罢）
+- 性别男爱好女（划掉）
+- 目前平顶山学院 物联网工程专业在读，偶尔拍照、做点奇怪视频啥的。
+- 参加了第八届御网杯（混的省三）、SLsec校赛(Week1第一名)、第八届强网杯（只围观）。
 
-<!---
-YMDG-BM/YMDG-BM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-- 写于2024.10.26
